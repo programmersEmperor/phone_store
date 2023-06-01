@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855469260379",
+    "project_id": "phonestore-7ac24",
+    "storage_bucket": "phonestore-7ac24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855469260379:android:a5bb2085202c11802f897e",
+        "android_client_info": {
+          "package_name": "com.example.phone_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhk4obQ5vfTpzUMVcD7s995X7T-2pd91g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
